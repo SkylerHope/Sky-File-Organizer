@@ -1,5 +1,5 @@
 # Sky-File-Organizer
-Organize files in your directories with this CLI file organizer
+Organize files in your directories with this CLI file organizer according to their format
 
 <img src="https://i.ibb.co/8dsFy8K/Screenshot-2023-11-30-21-04-39.png" height="500" width="1000">
 
